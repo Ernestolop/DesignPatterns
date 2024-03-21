@@ -7,7 +7,7 @@ import com.elopez.design.patterns.abstract_factory.factory.FurnitureFactory;
 import com.elopez.design.patterns.abstract_factory.factory.ModernFactory;
 import com.elopez.design.patterns.abstract_factory.table.Table;
 
-public class TestAbstractFactory {
+public class Client {
     public static void main(String[] args) {
         FurnitureFactory furnitureFactory = new ModernFactory();
         Chair chair = furnitureFactory.createChair();
