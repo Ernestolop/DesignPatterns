@@ -1,5 +1,5 @@
 # Design Patterns with Java
-## Creacionales
+## Creational
 - Factory
 - Factory Method
 - Abstract Factory
