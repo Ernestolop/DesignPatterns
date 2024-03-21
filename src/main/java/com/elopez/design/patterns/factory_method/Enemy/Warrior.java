@@ -1,4 +1,4 @@
-package com.elopez.design.patterns.factory_method;
+package com.elopez.design.patterns.factory_method.Enemy;
 
 public class Warrior implements Enemy{
     
