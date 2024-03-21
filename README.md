@@ -4,5 +4,8 @@
 - Factory Method
 - Abstract Factory
 - Builder
-- Prototype
+- Prototype 
 - Singleton
+
+## Structural
+- Adapter
