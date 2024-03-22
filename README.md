@@ -12,3 +12,4 @@
 - Bridge
 - Composite
 - Decorator or Wrapper
+- Facade
