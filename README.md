@@ -13,3 +13,4 @@
 - Composite
 - Decorator or Wrapper
 - Facade
+- Proxy
