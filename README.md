@@ -11,3 +11,4 @@
 - Adapter
 - Bridge
 - Composite
+- Decorator or Wrapper
