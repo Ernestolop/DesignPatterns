@@ -14,3 +14,6 @@
 - Decorator or Wrapper
 - Facade
 - Proxy
+
+## Behavioral
+- Chain of Responsibility 
