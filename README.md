@@ -18,3 +18,4 @@
 ## Behavioral
 - Chain of Responsibility
 - Command
+- Mediator
