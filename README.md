@@ -24,3 +24,4 @@
 - State
 - Strategy
 - Template Method
+- Visitor
