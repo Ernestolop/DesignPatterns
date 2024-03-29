@@ -20,3 +20,4 @@
 - Command
 - Mediator
 - Memento
+- Observer
