@@ -10,7 +10,7 @@ The objective of this repository is to show application examples of some of the 
 
 - Behavioral Patterns: These patterns are related to communication and behavior between objects. They help define how objects interact with each other and how responsibilities are divided among them.
 
-## Bibliografía
+## Bibliography
 
 - Refactoring Guru. "Design Patterns." [Refactoring Guru - Design Patterns](https://refactoring.guru/es/design-patterns).
 
