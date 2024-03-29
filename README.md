@@ -21,3 +21,4 @@
 - Mediator
 - Memento
 - Observer
+- State
